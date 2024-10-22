@@ -17,6 +17,13 @@ Composto de duas páginas: a página inicial e a página de visualização do po
 
 A estrutura do projeto é organizada da seguinte forma:
 
+├── index.html # Página inicial que exibe uma lista de posts 
+├── post.html # Página que exibe o conteúdo de um post específico 
+├── style.css # Folha de estilo do blog 
+├── script.js # Script para manipulação de postagens na página inicial 
+│── post.js # Script exibe para detalhes de um post 
+│── images/ # Pasta para armazenar imagens utilizadas no blog
+
 ## Funcionalidades
 
 - **Exibição de Posts**: O blog apresenta uma lista de posts na página inicial, com título, imagem e uma breve descrição.
