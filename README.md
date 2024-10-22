@@ -1,7 +1,11 @@
 # blog_InspiraCode
 
-**InspiraCode** é um blog de tecnologia desenvolvido com HTML, CSS e Javascript.
-Composto de duas páginas: a página inicial e página de visualização do post. 
+**InspiraCode** 
+
+É um blog de tecnologia desenvolvido com HTML, CSS e JavaScript.  
+Composto de duas páginas: a página inicial e a página de visualização do post.
+
+![Blog InspiraCode](image.png)
 
 ## Tecnologias Utilizadas
 
